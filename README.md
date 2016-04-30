@@ -20,4 +20,4 @@ The last step in processing the data is to remove outliers in data set and subse
 * The code for cleaning and subseting the data can be found here
 
 ## Taxi Trip Destination Analysis
-<img alt="Yellow Trip Destination Analysis" src="images/1_17mil_droppoff_label.png" width='2000'>
+<img alt="Yellow Trip Destination Analysis" src="images/1_17mil_droppoff.png" width='1000'>
