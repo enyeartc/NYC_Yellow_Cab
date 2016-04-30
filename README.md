@@ -12,6 +12,6 @@ All New York City yellow cab taix data for this analysis was downloaded from [Ar
 
 Data from 2009 to 2015 can be downloaded from the [NYC Taxi & Limousine Commission](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml), however it does not include the vehicle medallion or driver hack license information.
 
-## Data Processing
+## Data Pre-Processing
 
 
