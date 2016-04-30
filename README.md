@@ -13,5 +13,7 @@ All New York City yellow cab taix data for this analysis was downloaded from [Ar
 Data from 2009 to 2015 can be downloaded from the [NYC Taxi & Limousine Commission](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml), however it does not include the vehicle medallion or driver hack license information.
 
 ## Data Pre-Processing
-
+The taxi trip and fare data needed to be merged for analysis, a program was writen to see if the pickup time data ordering is the same in both datasets. If the data ordering in both datasets is the same then a Pandas concat function can be used to merge the large datasets together. 
+* This is the code to check the ordering between the trip and fair data
+* 
 
