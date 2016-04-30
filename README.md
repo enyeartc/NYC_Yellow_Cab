@@ -19,5 +19,5 @@ The taxi trip and fare data needed to be merged for analysis, a program was writ
 The last step in processing the data is to remove outliers in data set and subset it by month. Outliers were found in the following columns of the dataset: pickup and drop-off latitude and longitude, passenger count, trip time, and trip distance. 
 * The code for cleaning and subseting the data can be found here
 
-## Trip Destination Analysis
+## Taxi Trip Destination Analysis
 
