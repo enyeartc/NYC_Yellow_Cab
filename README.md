@@ -8,4 +8,7 @@ The purpose of this analysis is to explore the yellow cab taxi data set to see w
 2.  
 
 ## Dataset
-All New York City yellow cab taix data was downloaded from [Archive.ort](https://archive.org/details/nycTaxiTripData2013)
+All New York City yellow cab taix data for this analysis was downloaded from [Archive.org](https://archive.org/details/nycTaxiTripData2013), which is for the year 2013. It a data set that comes with vehicle medallion and driver hack license.
+
+Data from 2009 to 2015 can be downloaded from the [NYC Taxi & Limousine Commission](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml), however it does not include the vehicle medallion or driver hack license information.
+
