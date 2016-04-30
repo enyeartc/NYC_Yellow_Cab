@@ -16,6 +16,7 @@ Data from 2009 to 2015 can be downloaded from the [NYC Taxi & Limousine Commissi
 The taxi trip and fare data needed to be merged for analysis, a program was writen to see if the pickup time data ordering is the same in both datasets. If the data ordering in both datasets is the same then a Pandas concat function can be used to merge the large datasets together. 
 * This is the code to check the ordering between the trip and fair data
 * The trip and fair data match, therefore the follow code can be used to merge the two together
+
 The last step in processing the data is to remove outliers in data set and subset it by month. Outliers were found in the following columns of the dataset: pickup and drop-off latitude and longitude, passenger count, trip time, and trip distance. 
 * The code for cleaning and subseting the data can be found here
 
