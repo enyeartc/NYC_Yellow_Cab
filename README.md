@@ -1,2 +1,2 @@
 ## New York City Yellow Cab
-![NYC_Yellow_CAB](IMAGES/NYC-TAXI-CAB.JPG)
+![NYC_Yellow_CAB](images/NYC-Taxi_Cab.jpg)
