@@ -39,4 +39,5 @@ Figures 1 and 2 above reveals pickup and drop off locations for tip greater than
 The plot above shows pickup (blue) and drop-off (red), where tip above ten dollars are received. From the plot it is easy to see that the best pickup locations are airports and subway stations. Most of the passengers are headed either to Times Square or the airports.
   * The code for this plot is found here
 
-## Trip Speeds
+## Average Trip Speeds
+<img alt="Yellow Cab avgerage trip speeds" src="images/5_avg_trip_speed_label.png" width='1000'>
