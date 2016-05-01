@@ -30,3 +30,6 @@ The image above is a plot of 17 million destination of a New York City cab in th
 <sub><b>Figure 1: </b> Tips 20% and greater pickup locations</sub>
 <img alt="Yellow Cab dropoff Tips 20p" src="images/3_dropoff_tip20p_label.png" width='1000'>
 <sub><b>Figure 2: </b> Tips 20% and greater drop off locations </sub>
+
+Figures 1 and 2 above reveals pickup and drop off locations for tip greater than equal to 20%. It is easy to see that in figure1 that the best pickup location for high tips are Manhattan and airports.
+*The code for this figure can be found here
