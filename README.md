@@ -65,7 +65,10 @@ There were five predictive analysis completed on the New York City Taxi data on 
 <img alt="Model Predictions" src="images/9_surcharge_fi.png" width='1000'>
 
 ### Travel Time Feature Importance
-<img alt="Model Predictions" src="images/10_travel_time_fi.png" width='1000'>
+<img alt="Model Predictions" src="images/10_travel_time_fi.png" width='500'>
 
 ### Fare Amount Feature Importance
-<img alt="Model Predictions" src="images/11_fare_amount_fi.png" width='1000'>
+<img alt="Model Predictions" src="images/11_fare_amount_fi.png" width='500'>
+
+## Find Bad Cab Driver
+<img alt="Model Predictions" src="images/12_finding_bad_cab_drivers_fi.png" width='1000'>
