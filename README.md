@@ -24,6 +24,5 @@ The last step in processing the data is to remove outliers in data set and subse
 <img alt="Yellow Trip Destination Analysis" src="images/1_17mil_droppoff_label.png" width='1000'>
 The image above is a plot of 17 million destination of a New York City cab in the month of January 2013. The plot creates a map of New York City by taxi cab drop off latitude and longitude. In the plot, the bright areas are popular taxi drop-off locations, such as, airports and Manhattan.     
 
-## Taxi Trip Tips Greater Than Equal to 20%
-<img alt="Yellow Cab pick Tips 20%" src="images/2_pickup_tip20%_label.png" width='1000'>
-<img alt="Yellow Cab dropoff Tips 20%" src="images/3_dropoff_tip20%_label.png" width='1000'>
+## Taxi Trip Tips Analysis
+Hello world
