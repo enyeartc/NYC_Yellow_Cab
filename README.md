@@ -52,4 +52,5 @@ Below is a timelaps video of average taxi cab trip speed by pickup hour of day. 
 
 ## Predictive Analysis
 There were five predictive analysis completed on the New York City Taxi data on the following features: tipped or not tipped, tip amount, surcharge, travel time, and fare amount. 
+
 <img alt="Model Predictions" src="images/6_model_results.png" width='1000'>
