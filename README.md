@@ -64,25 +64,32 @@ There were five predictive analysis completed on the New York City Taxi data on 
 
 ### Tipped or Not Tipped Feature Importance
 <img alt="Tipped or Not Tipped" src="images/7_tipped_ntipped_fi.png" width="500">
+
 The most important feature for determining weather a cab driver gets tip or not is the payment type cash or credit card.
 
 ### Tip Amount Feature Importance
 <img alt="Tip Amount" src="images/8_tip_amount_fi.png" width="500">
+
 For tip amount, the best features are the fare amount, pyment ype credit card, drop off longitude and latitude, pickup longitude, and trip time. 
 
 ### Surcharge Feature Importance
 <img alt="Surcharge" src="images/9_surcharge_fi.png" width="1000">
+
 Surcharge has many important features start with day of week Sunday followed by Saturday, pickup hour, and rate code of 2 (Airport). 
 
 ### Travel Time Feature Importance
 <img alt="Travel Time" src="images/10_travel_time_fi.png" width="500">
+
 For travel time, the most import feature are georaphical distance, drop off latitude and longitude, pickup latitude, and surcharge.
 
 ### Fare Amount Feature Importance
 <img alt="Model Predictions" src="images/11_fare_amount_fi.png" width="500">
-WHen predicting fare amount the most important features are geographical distance, standard city rate, drop off longitude and latitude, and pickup longitude.
+
+When predicting fare amount the most important features are geographical distance, standard city rate, drop off longitude and latitude, and pickup longitude.
 
 ## Finding Bad Cab Drivers
 To find bad cab drivers, similar cab trip have to be group together and compared. The method for doing this is depicted below.
+
 <img alt="Model Predictions" src="images/12_finding_bad_cab_drivers.png" width="1000">
+
 Using this analysis on a dataset of 400,000 data points, there were 74,564 similar clusters formed. Within those clusters, there were 3,664 bad drivers identified. On average, bad cab drivers increase trip distance by 4.68 miles. 
