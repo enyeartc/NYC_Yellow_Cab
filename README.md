@@ -5,9 +5,9 @@ The purpose of this analysis is to explore the yellow cab taxi data set to see w
 
 ##Table of Contents
 1.  [Dataset](#dataset)
-2.  [Data Pre-Processing]
-3.  [Taxi Trip Destination Analysis]
-4.  Taxi Trip Tips Analysis
+2.  [Data Pre-Processing](#Data Pre-Processing)
+3.  [Taxi Trip Destination Analysis](#Taxi Trip Destination Analysis)
+4.  [Taxi Trip Tips Analysis](#Taxi Trip Tips Analysis)
 
 ## Dataset
 All New York City yellow cab taix data for this analysis was downloaded from [Archive.org](https://archive.org/details/nycTaxiTripData2013), which is for the year 2013. It a data set that comes with vehicle medallion and driver hack license.
