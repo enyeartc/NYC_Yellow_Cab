@@ -60,22 +60,22 @@ Below is a timelaps video of average taxi cab trip speed by pickup hour of day. 
 ## Predictive Analysis
 There were five predictive analysis completed on the New York City Taxi data on the following features: tipped or not tipped, tip amount, surcharge, travel time, and fare amount. 
 
-<img alt="Model Predictions" src="images/6_model_results.png" width='1000'>
+<img alt="Model Predictions" src="images/6_model_results.png" width="1000">
 
 ### Tipped or Not Tipped Feature Importance
-<img alt="Tipped or Not Tipped" src="images/7_tipped_ntipped_fi.png" width='500' style="float: center">
+<img alt="Tipped or Not Tipped" src="images/7_tipped_ntipped_fi.png" width="500" style="float: center;">
 
 ### Tip Amount Feature Importance
-<img alt="Tip Amount" src="images/8_tip_amount_fi.png" width='500' style="float: center">
+<img alt="Tip Amount" src="images/8_tip_amount_fi.png" width="500" style="float: center;">
 
 ### Surcharge Feature Importance
-<img alt="Surcharge" src="images/9_surcharge_fi.png" width='1000'>
+<img alt="Surcharge" src="images/9_surcharge_fi.png" width="1000">
 
 ### Travel Time Feature Importance
-<img alt="Travel Time" src="images/10_travel_time_fi.png" width='500' style="float: center">
+<img alt="Travel Time" src="images/10_travel_time_fi.png" width="500" style="float: center;">
 
 ### Fare Amount Feature Importance
-<img alt="Model Predictions" src="images/11_fare_amount_fi.png" width='500' style="float: center">
+<img alt="Model Predictions" src="images/11_fare_amount_fi.png" width="500" style="float: center;">
 
 ## Finding Bad Cab Drivers
-<img alt="Model Predictions" src="images/12_finding_bad_cab_drivers.png" width='1000'>
+<img alt="Model Predictions" src="images/12_finding_bad_cab_drivers.png" width="1000">
