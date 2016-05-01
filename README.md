@@ -11,7 +11,7 @@ The purpose of this analysis is to explore the yellow cab taxi data set to see w
   * [Tips Above 10 Dollars](#tips-above-10-dollars)
 5.  [Average Trip Speed](#average-trip-speed)
 6.  [Predictive Analysis](#predictive-analysis)
-  * [Tipped or Not Tipped Feature Importance](#tipped-or-not-tipped)
+  * [Tipped or Not Tipped Feature Importance](#tipped-or-not-tipped-feature-importance)
   * [Tip Amount Feature Importance](#tip-amount-feature-importance)
   * [Surcharge Feature Importance](#surcharge-feature-importance)
   * [Travel Time Feature Importance](#travel-time-feature-importance)
