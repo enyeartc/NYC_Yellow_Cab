@@ -33,3 +33,11 @@ The image above is a plot of 17 million destination of a New York City cab in th
 
 Figures 1 and 2 above reveals pickup and drop off locations for tip greater than equal to 20%. It is easy to see that in figure1 that the best pickup location for high tips are Manhattan and airports. Figure 2 show that they are headed all over Manhattan, the airports, and places closest to Manhattan.
   * The code for this figure can be found here
+
+## Tips Above 10 Dollars
+<img alt="Yellow Cab tip above 10 dollar" src="images/4_tips_10_label.png" width='1000'>
+The plot above shows pickup (blue) and drop-off (red), where tip above ten dollars are received. From the plot it is easy to see that the best pickup locations are airports and subway stations. Most of the passengers are headed either to Times Square or the airports.
+  * The code for this plot is found here
+
+## Average Trip Speeds
+<img alt="Yellow Cab avgerage trip speeds" src="images/5_avg_trip_speed_label.png" width='1000'>
