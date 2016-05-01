@@ -63,3 +63,9 @@ There were five predictive analysis completed on the New York City Taxi data on 
 
 ### Surcharge Feature Importance
 <img alt="Model Predictions" src="images/9_surcharge_fi.png" width='1000'>
+
+### Travel Time Feature Importance
+<img alt="Model Predictions" src="images/10_travel_time_fi.png" width='1000'>
+
+### Fare Amount Feature Importance
+<img alt="Model Predictions" src="images/11_fare_amount_fi.png" width='1000'>
