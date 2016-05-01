@@ -61,3 +61,5 @@ There were five predictive analysis completed on the New York City Taxi data on 
 ### Tip amount feature importance
 <img alt="Model Predictions" src="images/8_tip_amount_fi.png" width='500'>
 
+### Surcharge Feature Importance
+<img alt="Model Predictions" src="images/9_surcharge_fi.png" width='500'>
