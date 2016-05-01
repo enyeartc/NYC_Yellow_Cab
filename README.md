@@ -56,4 +56,4 @@ There were five predictive analysis completed on the New York City Taxi data on 
 <img alt="Model Predictions" src="images/6_model_results.png" width='1000'>
 
 ### Tipped or Not Tipped Feature Importance
-<img alt="Model Predictions" src="images/7_tipped_ntipped_fi.png" width='1000'>
+<img alt="Model Predictions" src="images/7_tipped_ntipped_fi.png" width='500'>
