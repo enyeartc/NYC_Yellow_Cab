@@ -47,5 +47,5 @@ The plot above shows pickup (blue) and drop-off (red), where tip above ten dolla
 <img alt="Yellow Cab avgerage trip speed" src="images/5_avg_trip_speed_label.png" width='1000'>
 This plot shows average trip speed in three ranges: less than equal to 25 MPH (blue), greater than 25 MPH and less than equal to 45 MPH (yellow), and greater than 45 MHP (red).
 
-Below is a timelaps video of average taxi cab trip speed by pickup hour of day. You can see that trip speed increases and decrease throughout the day. 
+Below is a timelaps video of average taxi cab trip speed by pickup hour of day. You can see that trip speed increases and decrease throughout the day in Manhattan. 
 <img alt="Yellow Cab avgerage trip speed times laps" src="images/trip_speed_timelaps.gif" width='1000'>
