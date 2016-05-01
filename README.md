@@ -56,19 +56,19 @@ There were five predictive analysis completed on the New York City Taxi data on 
 <img alt="Model Predictions" src="images/6_model_results.png" width='1000'>
 
 ### Tipped or Not Tipped Feature Importance
-<img alt="Model Predictions" src="images/7_tipped_ntipped_fi.png" width='500' style="float: right">
+<img alt="Tipped or Not Tipped" src="images/7_tipped_ntipped_fi.png" width='500' style="float: center">
 
-### Tip amount feature importance
-<img alt="Model Predictions" src="images/8_tip_amount_fi.png" width='500'>
+### Tip Amount Feature Importance
+<img alt="Tip Amount" src="images/8_tip_amount_fi.png" width='500' style="float: center">
 
 ### Surcharge Feature Importance
-<img alt="Model Predictions" src="images/9_surcharge_fi.png" width='1000'>
+<img alt="Surcharge" src="images/9_surcharge_fi.png" width='1000'>
 
 ### Travel Time Feature Importance
-<img alt="Model Predictions" src="images/10_travel_time_fi.png" width='500'>
+<img alt="Travel Time" src="images/10_travel_time_fi.png" width='500' style="float: center">
 
 ### Fare Amount Feature Importance
-<img alt="Model Predictions" src="images/11_fare_amount_fi.png" width='500'>
+<img alt="Model Predictions" src="images/11_fare_amount_fi.png" width='500' style="float: center">
 
-## Finding Bad Cab Driver
+## Finding Bad Cab Drivers
 <img alt="Model Predictions" src="images/12_finding_bad_cab_drivers.png" width='1000'>
