@@ -10,6 +10,13 @@ The purpose of this analysis is to explore the yellow cab taxi data set to see w
 4.  [Taxi Trip Tips Analysis](#taxi-trip-tips-analysis)
   * [Tips Above 10 Dollars](#tips-above-10-dollars)
 5.  [Average Trip Speed](#average-trip-speed)
+6.  [Predictive Analysis](#predictive-analysis)
+  * [Tipped or Not Tipped Feature Importance](#tipped-or-not-tipped)
+  * [Tip Amount Feature Importance](#tip-amount-feature-importance)
+  * [Surcharge Feature Importance](#surcharge-feature-importance)
+  * [Travel Time Feature Importance](#travel-time-feature-importance)
+  * [Fare Amount Feature Importance](#fare-amount-feature-importance)
+7.  [Finding Bad Cab Drivers](#finding-bad-cab-drivers)
 
 ## Dataset
 All New York City yellow cab taix data for this analysis was downloaded from [Archive.org](https://archive.org/details/nycTaxiTripData2013), which is for the year 2013. It a data set that comes with vehicle medallion and driver hack license.
