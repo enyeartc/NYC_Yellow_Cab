@@ -39,5 +39,9 @@ Figures 1 and 2 above reveals pickup and drop off locations for tip greater than
 The plot above shows pickup (blue) and drop-off (red), where tip above ten dollars are received. From the plot it is easy to see that the best pickup locations are airports and subway stations. Most of the passengers are headed either to Times Square or the airports.
   * The code for this plot is found here
 
-## Average Trip Speeds
-<img alt="Yellow Cab avgerage trip speeds" src="images/5_avg_trip_speed_label.png" width='1000'>
+## Average Trip Speed
+<img alt="Yellow Cab avgerage trip speed" src="images/5_avg_trip_speed_label.png" width='1000'>
+This plot shows average trip speed in three ranges: less than equal to 25 MPH (blue), greater than 25 MPH and less than equal to 45 MPH (yellow), and greater than 45 MHP (red).
+
+Below is a timelaps video of average taxi cab trip speed by hour. You can see that trip speed increases and decrease throughout the day. 
+<img alt="Yellow Cab avgerage trip speed times laps" src="images/trip_speed_timlabs.gif" width='1000'>
