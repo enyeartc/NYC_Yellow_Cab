@@ -49,3 +49,7 @@ This plot shows average trip speed in three ranges: less than equal to 25 MPH (b
 
 Below is a timelaps video of average taxi cab trip speed by pickup hour of day. You can see that trip speed increases and decrease throughout the day in Manhattan. 
 <img alt="Yellow Cab avgerage trip speed times laps" src="images/trip_speed_timelaps.gif" width='1000'>
+
+## Predictive Analysis
+There were five predictive analysis completed on the New York City Taxi data on the following features: tipped or not tipped, tip amount, surcharge, travel time, and fare amount. 
+<img alt="Model Predictions' src="images/6_model_results.png" width='1000'>
