@@ -25,16 +25,16 @@ Data from 2009 to 2015 can be downloaded from the [NYC Taxi & Limousine Commissi
 
 ## Data Pre-Processing
 The taxi trip and fare data needed to be merged for analysis, a program was writen to see if the pickup time data ordering is the same in both datasets. If the data ordering in both datasets is the same then a Pandas concat function can be used to merge the large datasets together. 
-  * This is the ([code](https://github.com/mkls2319/NYC_Yellow_Cab/blob/master/0_check_trip_fare_data.py)) to check the ordering between the trip and fair data.
-  * The trip and fair data match, therefore the follow ([code](https://github.com/mkls2319/NYC_Yellow_Cab/blob/master/1_merge_trip_fare_data.py)) can be used to merge the two together.
+  * This is the [code](https://github.com/mkls2319/NYC_Yellow_Cab/blob/master/0_check_trip_fare_data.py) to check the ordering between the trip and fair data
+  * The trip and fair data match, therefore the follow [code](https://github.com/mkls2319/NYC_Yellow_Cab/blob/master/1_merge_trip_fare_data.py) can be used to merge the two together
 
 The last step in processing the data is to remove outliers in data set and subset it by month. Outliers were found in the following columns of the dataset: pickup and drop-off latitude and longitude, passenger count, trip time, and trip distance. 
-  * The code for cleaning and subseting the data.
+  * The [code](https://github.com/mkls2319/NYC_Yellow_Cab/blob/master/2_clean_trip_fare_data_and_subset.py) for cleaning and subseting the data
 
 ## Taxi Trip Destination Analysis
 <img alt="Yellow Trip Destination Analysis" src="images/1_17mil_droppoff_label.png" width='1000'>
 The image above is a plot of 17 million destination of a New York City cab in the month of January 2013. The plot creates a map of New York City by taxi cab drop off latitude and longitude. In the plot, the bright areas are popular taxi drop-off locations, such as, airports and Manhattan.     
-  * The ([code](https://github.com/mkls2319/NYC_Yellow_Cab/blob/master/2_clean_trip_fare_data_and_subset.py)) for this plot can be found here
+  * The [code](https://github.com/mkls2319/NYC_Yellow_Cab/blob/master/3_taxi_map_plot.py) for this plot can be found here
 
 ## Taxi Trip Tips Analysis
 <img alt="Yellow Cab pickup Tips 20p" src="images/2_pickup_tip20p_label.png" width='1000'>
@@ -43,24 +43,31 @@ The image above is a plot of 17 million destination of a New York City cab in th
 <sub><b>Figure 2: </b> Tips 20% and greater drop off locations </sub>
 
 Figures 1 and 2 above reveals pickup and drop off locations for tip greater than equal to 20%. It is easy to see that in figure1 that the best pickup location for high tips are Manhattan and airports. Figure 2 show that they are headed all over Manhattan, the airports, and places closest to Manhattan.
-  * The code for this figure can be found here
+  * The [code](https://github.com/mkls2319/NYC_Yellow_Cab/blob/master/4_trip_tip20_plot.py) for this figure can be found here
 
 ### Tips Above 10 Dollars
 <img alt="Yellow Cab tip above 10 dollar" src="images/4_tips_10_label.png" width='1000'>
 The plot above shows pickup (blue) and drop-off (red), where tip above ten dollars are received. From the plot it is easy to see that the best pickup locations are airports and subway stations. Most of the passengers are headed either to Times Square or the airports.
-  * The code for this plot is found here
+  * The [code](https://github.com/mkls2319/NYC_Yellow_Cab/blob/master/5_tips_above_10.py) for this plot is found here
 
 ## Average Trip Speed
 <img alt="Yellow Cab avgerage trip speed" src="images/5_avg_trip_speed_label.png" width='1000'>
 This plot shows average trip speed in three ranges: less than equal to 25 MPH (blue), greater than 25 MPH and less than equal to 45 MPH (yellow), and greater than 45 MHP (red).
+  * [Code](https://github.com/mkls2319/NYC_Yellow_Cab/blob/master/6_Trip_speed_analysis.py) for this plot is found here
 
 Below is a timelaps video of average taxi cab trip speed by pickup hour of day. You can see that trip speed increases and decrease throughout the day in Manhattan. 
 <img alt="Yellow Cab avgerage trip speed times laps" src="images/trip_speed_timelaps.gif" width='1000'>
+  * The [code](https://github.com/mkls2319/NYC_Yellow_Cab/blob/master/6_Time_laps.py) for creating this plot is found here
 
 ## Predictive Analysis
 There were five predictive analysis completed on the New York City Taxi data on the following features: Tipped or Not Tipped, Tip Amount, Surcharge, Travel Time, and Fare Amount. 
 
 <img alt="Model Predictions" src="images/6_model_results.png" width="1000">
+  * [Code](https://github.com/mkls2319/NYC_Yellow_Cab/blob/master/7_tipped_ntipped.py) for predicting Tipped or Not Tipped
+  * [Code](https://github.com/mkls2319/NYC_Yellow_Cab/blob/master/8_tip_amount.py) for predicting Tip Amount
+  * [Code](https://github.com/mkls2319/NYC_Yellow_Cab/blob/master/9_surcharge_predict.py) for predicting surcharge
+  * [Code](https://github.com/mkls2319/NYC_Yellow_Cab/blob/master/10_trip_time_predict.py) for predicting Travel Time
+  * [Code](https://github.com/mkls2319/NYC_Yellow_Cab/blob/master/11_trip_fare_predict.py) for predicting Fare Amount
 
 ### Tipped or Not Tipped Feature Importance
 <img alt="Tipped or Not Tipped" src="images/7_tipped_ntipped_fi.png" width="500">
@@ -93,3 +100,4 @@ To find bad cab drivers, similar cab trip have to be group together and compared
 <img alt="Model Predictions" src="images/12_finding_bad_cab_drivers.png" width="1000">
 
 Using this analysis on a dataset of 400,000 data points, there were 74,564 similar clusters formed. Within those clusters, there were 3,664 bad drivers identified. On average, bad cab drivers increase trip distance by 4.68 miles. 
+  * The algorithms for finding bad cab drivers is here ([code](https://github.com/mkls2319/NYC_Yellow_Cab/blob/master/similar_trip_cluster.py))
