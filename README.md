@@ -70,5 +70,5 @@ There were five predictive analysis completed on the New York City Taxi data on 
 ### Fare Amount Feature Importance
 <img alt="Model Predictions" src="images/11_fare_amount_fi.png" width='500'>
 
-## Find Bad Cab Driver
+## Finding Bad Cab Driver
 <img alt="Model Predictions" src="images/12_finding_bad_cab_drivers.png" width='1000'>
