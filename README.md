@@ -5,7 +5,7 @@ The purpose of this analysis is to explore the yellow cab taxi data set to see w
 
 ##Table of Contents
 1.  [Dataset](#dataset)
-2.  [Data Pre-Processing](#Data Pre-Processing)
+2.  [Data Pre-Processing](#data-pre-processing)
 3.  [Taxi Trip Destination Analysis](#Taxi Trip Destination Analysis)
 4.  [Taxi Trip Tips Analysis](#Taxi Trip Tips Analysis)
 
