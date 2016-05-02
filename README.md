@@ -63,9 +63,10 @@ Below is a time-laps video of average taxi cab trip speed by pickup hour of day.
 There were five predictive analyses completed on the New York City Taxi data on the following features: Tipped or Not Tipped, Tip Amount, Surcharge, Travel Time, and Fare Amount. 
 
 <img alt="Model Predictions" src="images/6_model_results.png" width="1000">
+
   * [Code](https://github.com/mkls2319/NYC_Yellow_Cab/blob/master/7_tipped_ntipped.py) for predicting Tipped or Not Tipped
   * [Code](https://github.com/mkls2319/NYC_Yellow_Cab/blob/master/8_tip_amount.py) for predicting Tip Amount
-  * [Code](https://github.com/mkls2319/NYC_Yellow_Cab/blob/master/9_surcharge_predict.py) for predicting surcharge
+  * [Code](https://github.com/mkls2319/NYC_Yellow_Cab/blob/master/9_surcharge_predict.py) for predicting Surcharge
   * [Code](https://github.com/mkls2319/NYC_Yellow_Cab/blob/master/10_trip_time_predict.py) for predicting Travel Time
   * [Code](https://github.com/mkls2319/NYC_Yellow_Cab/blob/master/11_trip_fare_predict.py) for predicting Fare Amount
 
