@@ -100,5 +100,5 @@ To find bad cab drivers, similar cab trip have to be group together and compared
 
 <img alt="Model Predictions" src="images/12_finding_bad_cab_drivers.png" width="1000">
 
-Using this analysis on a dataset of 1,200,000 data points, there were 158,394 similar clusters formed. Within these clusters, there were 217,353 bad drivers identified. On average, bad cab drivers increase trip distance by 4.68 miles. 
+Using this analysis on a dataset of 1,800,000 data points, there were 203,388 similar clusters formed. Within these clusters, there were 36,008 bad drivers identified. On average, bad cab drivers increase trip distance by 4.71 miles. The most number of times a single cab driver was found taking a sub-optimal route was 26 times.
   * The algorithms for finding bad cab drivers is here ([code](https://github.com/mkls2319/NYC_Yellow_Cab/blob/master/similar_trip_cluster.py))
